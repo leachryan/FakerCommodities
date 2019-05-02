@@ -26,7 +26,7 @@ class Commodity extends \Faker\Provider\Base
         'Cocoa',
         'Coffee',
         'Sugar',
-        'Lumbar',
+        'Lumber',
         'Rubber',
         'Wool'
     ];
